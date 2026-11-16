@@ -1,7 +1,31 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/</loc></url>
-  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/articles/game-beginner-guide.html</loc></url>
-  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/articles/how-to-choose-games.html</loc></url>
-  <url><loc>https://YOUR-GITHUB-USERNAME.github.io/articles/pc-game-performance.html</loc></url>
+  <url>
+    <loc>https://91y5565048.github.io/</loc>
+  </url>
+  <url>
+    <loc>https://91y5565048.github.io/articles/game-beginner-guide.html</loc>
+  </url>
+  <url>
+    <loc>https://91y5565048.github.io/articles/how-to-choose-games.html</loc>
+  </url>
+  <url>
+    <loc>https://91y5565048.github.io/articles/pc-game-performance.html</loc>
+  </url>
+  <url>
+    <loc>https://91y5565048.github.io/articles/minecraft-first-day-beginner-guide.html</loc>
+  </url>
+  <url>
+    <loc>https://91y5565048.github.io/articles/minecraft-mining-diamonds-y-level-guide.html</loc>
+  </url>
+  <url>
+    <loc>https://91y5565048.github.io/articles/minecraft-food-farm-beginner-tutorial.html</loc>
+  </url>
+  <url>
+    <loc>https://91y5565048.github.io/articles/minecraft-enchanting-table-level-30-guide.html</loc>
+  </url>
+  <url>
+    <loc>https://91y5565048.github.io/articles/minecraft-villager-breeding-trading-guide.html</loc>
+  </url>
 </urlset>
