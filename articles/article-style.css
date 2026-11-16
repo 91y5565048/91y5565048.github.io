@@ -1,0 +1,12 @@
+
+:root{--bg:#f4f7f4;--ink:#1f2d25;--muted:#68766d;--green:#237a48;--line:#e0e8e1;--card:#fff}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.85 system-ui,-apple-system,"Segoe UI","Microsoft YaHei",sans-serif}
+a{color:var(--green);text-decoration:none}a:hover{text-decoration:underline}
+.site-head{background:#173d2a;color:#fff;padding:22px 18px}.head-inner,.container{max-width:900px;margin:auto}.brand{font-size:22px;font-weight:800}.brand small{display:block;font-size:11px;letter-spacing:2px;color:#b8d7c1}
+.container{padding:30px 18px 60px}.crumb{font-size:14px;color:var(--muted);margin-bottom:18px}
+article{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:clamp(22px,5vw,48px);box-shadow:0 8px 28px #183b2410}
+.kicker{color:var(--green);font-weight:700;font-size:13px}h1{font-size:clamp(27px,5vw,38px);line-height:1.35;margin:10px 0 12px}h2{font-size:23px;margin:32px 0 10px;line-height:1.4}p{margin:12px 0}li{margin:7px 0}.summary{color:var(--muted);font-size:17px}.meta{font-size:13px;color:var(--muted);border-bottom:1px solid var(--line);padding-bottom:20px;margin-bottom:22px}
+.notice{background:#f0f7f1;border-left:4px solid var(--green);padding:12px 16px;margin:22px 0;color:#395846}
+.sources{background:#f8faf8;border:1px solid var(--line);border-radius:12px;padding:16px;margin-top:30px}.sources h2{font-size:18px;margin:0 0 8px}.sources li{font-size:14px}.back{display:inline-block;margin:24px 0;font-weight:700}
+footer{text-align:center;color:var(--muted);font-size:13px;padding:24px}
+@media(max-width:600px){.container{padding:20px 12px 40px}.site-head{padding:18px 14px}}
